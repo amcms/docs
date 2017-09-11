@@ -1,6 +1,3 @@
-# docs
-
-
 # AMCms Wiki
 
 Documentation and notes for *AMCms* usage .
@@ -11,12 +8,14 @@ For local edit run this command:
 $ git clone https://github.com/amcms/docs.git
 ```
 
+# TODO
+
+This documentation must be full translated to english
+
 ## Contents
 
-* [Описание](info.md)
-* [Установка](/install.md)
-* [Настройка](/config.md)
-* [Модули](modules.md)
+* [Описание](intro.md)
+* [Валидация](validation.md)
 
 
 ## Writing docs
